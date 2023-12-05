@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.filemanager.App",
+      "projectName": "filemanager",
+      //Start the file manager in any folder you want
+      "args": "C:\\Users\\sorin\\OneDrive\\Desktop\\manele"
+    }
+  ]
+}
